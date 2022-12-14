@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In Button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for3000ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for3000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit Button]]>
+    </line>
+    <line>
+      <![CDATA[Handeling popup]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok button of popup]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button of popup ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[getting actual username ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In Button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for3000ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for3000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit Button]]>
+    </line>
+    <line>
+      <![CDATA[there is no popup]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[getting actual account balance ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-07T12:51:33 IST" name="Default suite" finished-at="2022-12-07T12:53:00 IST" duration-ms="86249">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T12:51:33 IST" name="Default test" finished-at="2022-12-07T12:53:00 IST" duration-ms="86249">
+      <class name="neostox_TestNG.ValidateNeoStoxUserName">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:51:33 IST" name="launchNeoStox" finished-at="2022-12-07T12:51:50 IST" duration-ms="16221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeoStox -->
+        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:51:50 IST" name="logintoNeoStox" finished-at="2022-12-07T12:52:37 IST" duration-ms="47644" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for2000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign In Button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for3000ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for3000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit Button]]>
+            </line>
+            <line>
+              <![CDATA[Handeling popup]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok button of popup]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button of popup ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeoStox -->
+        <test-method signature="validateUsername()[pri:-1, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:37 IST" name="validateUsername" finished-at="2022-12-07T12:52:37 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting actual username ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUsername -->
+        <test-method is-config="true" signature="logoutfromNeostox()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:37 IST" name="logoutfromNeostox" finished-at="2022-12-07T12:52:42 IST" duration-ms="4216" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromNeostox -->
+        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:42 IST" name="logintoNeoStox" finished-at="2022-12-07T12:52:57 IST" duration-ms="15516" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for2000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign In Button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for3000ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for3000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit Button]]>
+            </line>
+            <line>
+              <![CDATA[there is no popup]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeoStox -->
+        <test-method signature="validateAccountBalance()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:57 IST" name="validateAccountBalance" finished-at="2022-12-07T12:52:57 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting actual account balance ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAccountBalance -->
+        <test-method is-config="true" signature="logoutfromNeostox()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:57 IST" name="logoutfromNeostox" finished-at="2022-12-07T12:52:57 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromNeostox -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:neostox_TestNG.ValidateNeoStoxUserName@3ce1e309]" started-at="2022-12-07T12:52:57 IST" name="closingBrowser" finished-at="2022-12-07T12:53:00 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- neostox_TestNG.ValidateNeoStoxUserName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
