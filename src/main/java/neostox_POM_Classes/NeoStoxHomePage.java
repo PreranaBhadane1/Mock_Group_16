@@ -61,4 +61,10 @@ public class NeoStoxHomePage
 		Reporter.log("getting actual account balance ", true);
 		return actualAccBalance;
 	}
+	
+	
+	
+	
+	
+	
 }
